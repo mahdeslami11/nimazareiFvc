@@ -1,0 +1,7 @@
+introduction
+ I am Seyed Mahdi Fallahi Masoleh, a master's student in the field of medical engineering, majoring in bioelectricity, 
+from South Tehran University, Tehran, Iran.
+ Through the course of DSP, professor Dr.Mahdi Eslami,
+I got to know the GitHub environment and studied and reviewed this project.
+The review of this project has been done during 11 weeks with the professor
+I am 23 years old and interested in signal processing topics

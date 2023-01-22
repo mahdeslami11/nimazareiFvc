@@ -1,0 +1,10 @@
+fairseq==0.12.2
+editdistance==0.5.3
+librosa==0.8.0
+jsonargparse==2.32.2
+matplotlib==3.3.2
+PyYAML==5.3.1
+sox==1.4.1
+tensorboard==2.3.0
+torch==1.6.0
+tqdm==4.51.0
